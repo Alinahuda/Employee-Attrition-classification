@@ -14,7 +14,7 @@ Running instructions:
 
   1. Open Anaconda Navigater -> launch Jupiter
   2. Upload ->  upload both dataset and notebook file(Employee_datat.csv, Employee Attrition.ipynb)
-  3. Now open ML_Project.ipynb -> click “cell” from top menu -> click “run all” from the drop down menu
+  3. Now open Employee Attrition.ipynb -> click “cell” from top menu -> click “run all” from the drop down menu
   
   ## Training and Evaluation
  The dataset consists of 15000 rows and 10 columns. First the model was split into training and test data and training data was trained using Logistic Regression ,Linear SVM ,KNN ,Random Forest, SVC, ADA Boost Classifiers. 
